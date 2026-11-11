@@ -1,4 +1,4 @@
-module ping
+module github.com/ecsavigne/ping
 
 go 1.27.3
 

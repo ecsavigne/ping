@@ -3,8 +3,9 @@ package main
 import (
 	"os"
 	"os/signal"
-	"ping/tools"
 	"syscall"
+
+	"github.com/ecsavigne/ping/tools"
 )
 
 func main() {

@@ -2,9 +2,10 @@ package tools
 
 import (
 	"fmt"
-	"ping/internal"
 	"strings"
 	"time"
+
+	"github.com/ecsavigne/ping/internal"
 )
 
 type pingTools struct {
